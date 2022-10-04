@@ -1,17 +1,16 @@
 {
   "files": {
     "main.css": "/reapwc/static/css/main.073c9b0a.css",
-    "main.js": "/reapwc/static/js/main.ad35bc2e.js",
+    "main.js": "/reapwc/static/js/main.845ec906.js",
     "static/js/787.70d5aa1e.chunk.js": "/reapwc/static/js/787.70d5aa1e.chunk.js",
     "static/media/NLM-LOGO-HVID.png": "/reapwc/static/media/NLM-LOGO-HVID.58c709859abf27c8b330.png",
-    "static/media/logo.svg": "/reapwc/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/reapwc/index.html",
     "main.073c9b0a.css.map": "/reapwc/static/css/main.073c9b0a.css.map",
-    "main.ad35bc2e.js.map": "/reapwc/static/js/main.ad35bc2e.js.map",
+    "main.845ec906.js.map": "/reapwc/static/js/main.845ec906.js.map",
     "787.70d5aa1e.chunk.js.map": "/reapwc/static/js/787.70d5aa1e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.ad35bc2e.js"
+    "static/js/main.845ec906.js"
   ]
 }
